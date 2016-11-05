@@ -83,7 +83,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     mMap.setMinZoomPreference(16.0f);
                 }
             };
-
         }
     }
 
